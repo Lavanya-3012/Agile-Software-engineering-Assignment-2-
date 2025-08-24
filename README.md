@@ -1,7 +1,7 @@
 # Agile-Software-engineering-Assignment-2-
 
 ### 1. Use Case Diagram
-![Use Case Diagram](./images/UseCaseDiagram.jpg)
+![Use Case Diagram](https://github.com/Lavanya-3012/Agile-Software-engineering-Assignment-2-/blob/main/USECASE%20DIAGRAM_page-0001.jpg)
 
 ### 2. Sequence Diagram
 ![Sequence Diagram](https://github.com/Lavanya-3012/Agile-Software-engineering-Assignment-2-/blob/main/SEQUENCE%20DIAGRAM_page-0001.jpg))
