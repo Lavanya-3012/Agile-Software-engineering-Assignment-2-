@@ -1,10 +1,10 @@
 # Agile-Software-engineering-Assignment-2-
 
-1. **Use Case Diagram**  
-   [📂 View IMAGE]([./diagrams/UseCaseDiagram.pdf](https://github.com/Lavanya-3012/Agile-Software-engineering-Assignment-2-/blob/main/USECASE%20DIAGRAM_page-0001.jpg))
+### 1. Use Case Diagram
+![Use Case Diagram](./images/UseCaseDiagram.jpg)
 
-2. **Sequence Diagram**  
-   [📂 View IMAGE](./diagrams/SequenceDiagram.pdf)
+### 2. Sequence Diagram
+![Sequence Diagram](./images/SequenceDiagram.jpg)
 
-3. **Class Diagram**  
-   [📂 View IMAGE]([./diagrams/ClassDiagram.pdf](https://github.com/Lavanya-3012/Agile-Software-engineering-Assignment-2-/blob/main/CLASS%20DIAGRAM_page-0001.jpg))
+### 3. Class Diagram
+![Class Diagram](./images/ClassDiagram.jpg)
