@@ -4,7 +4,7 @@
 ![Use Case Diagram](./images/UseCaseDiagram.jpg)
 
 ### 2. Sequence Diagram
-![Sequence Diagram](./images/SequenceDiagram.jpg)
+![Sequence Diagram](https://github.com/Lavanya-3012/Agile-Software-engineering-Assignment-2-/blob/main/SEQUENCE%20DIAGRAM_page-0001.jpg))
 
 ### 3. Class Diagram
 ![Class Diagram](https://github.com/Lavanya-3012/Agile-Software-engineering-Assignment-2-/blob/main/CLASS%20DIAGRAM_page-0001.jpg))
